@@ -73,39 +73,11 @@ Click **Games sources** in the top bar, then **Add source**. Enter the URL and p
 }
 ```
 
-QuestLoad checks a new source by loading its games before adding it. Each source in the list has a
-switch to turn it off without forgetting it, and a button to remove it. Sources are saved in the
-browser's local storage. The URL must use `https://`, and the server must allow requests from the
-QuestLoad site (CORS).
+## Contributing
 
-## For offline usage
+If you are interested in contributing, please see our [CONTRIBUTING.md](CONTRIBUTING.md).
 
-The web installer is built with **Vite + React**, using Bun, TanStack Query, and TanStack Store. To run it locally:
+## Credits
 
-```bash
-git clone https://github.com/nerd-coder/QuestLoad.git
-cd QuestLoad
-bun install
-bun run dev
-bun run build
-bun run preview
-```
+Copyright © 2026 [Frizzle](https://github.com/FrizzleM/QuestLoad) and Toàn
 
-`bun run dev:brand` serves the design system preview (`apps/brand`). The shared tokens and components live in `packages/ui`.
-
-## Cloudflare Workers deployment
-
-Pushes to `main` deploy `apps/web` as Cloudflare Worker static assets at
-[questload.nerdcoder.dev](https://questload.nerdcoder.dev), through `.github/workflows/deploy.yml`.
-The `nerdcoder.dev` zone must be on the same Cloudflare account as the Worker; Cloudflare creates
-the DNS record and certificate on the first deploy.
-
-The workflow needs two GitHub Actions secrets, `CLOUDFLARE_ACCOUNT_ID` and `CLOUDFLARE_API_TOKEN`.
-Set them with:
-
-```bash
-bun run credentials
-```
-
-It reads your `gh` and `wrangler` logins, explains what the token must be allowed to do, links to a
-pre-filled token form, checks the token against Cloudflare, and stores both secrets on this repository.
