@@ -1,23 +1,23 @@
 <div align="center">
 
-# LoadQuestStuff
+# LoadQuestThings
 
-**LoadQuestStuff** is a browser‑based sideloader for Meta Quest headsets. It lets you install custom APKs on the Meta Quest directly from your web browser. Developer mode must be enabled on your headset.
+**LoadQuestThings** is a browser‑based sideloader for Meta Quest headsets. It lets you install custom APKs on the Meta Quest directly from your web browser. Developer mode must be enabled on your headset.
 
 This fork was created by treat. QuestLoad was created by [Frizzle](https://github.com/FrizzleM/QuestLoad).
 
 <br/>
-  <a href="https://LoadQuestStuff.nerdcoder.dev">
-    <img alt="Launch LoadQuestStuff" src="https://img.shields.io/badge/Launch-Open%20App-6cb6ff?style=for-the-badge">
+  <a href="https://LoadQuestThings.nerdcoder.dev">
+    <img alt="Launch LoadQuestThings" src="https://img.shields.io/badge/Launch-Open%20App-6cb6ff?style=for-the-badge">
   </a>
   
-  <a href="https://github.com/treatwashere/LoadQuestStuff/issues">
-    <img alt="Issues" src="https://img.shields.io/github/issues/nerd-coder/LoadQuestStuff?style=for-the-badge&color=ef4444">
+  <a href="https://github.com/treatwashere/LoadQuestThings/issues">
+    <img alt="Issues" src="https://img.shields.io/github/issues/nerd-coder/LoadQuestThings?style=for-the-badge&color=ef4444">
   </a>
 
 </div>
 
-<img width="1030" alt="LoadQuestStuff installing a game bundle on a connected Quest 3" src="docs/screenshot.png" />
+<img width="1030" alt="LoadQuestThings installing a game bundle on a connected Quest 3" src="docs/screenshot.png" />
 
 ## Requirements
 
@@ -29,16 +29,16 @@ This fork was created by treat. QuestLoad was created by [Frizzle](https://githu
 
 Follow these steps to sideload an app:
 
-### 1. Launch LoadQuestStuff
-Open [LoadQuestStuff.nerdcoder.dev](https://LoadQuestStuff.nerdcoder.dev).
+### 1. Launch LoadQuestThings
+Open [LoadQuestThings.nerdcoder.dev](https://LoadQuestThings.nerdcoder.dev).
 
 ### 2. Connect your Quest
-Plug your Quest into the computer and click **Connect Quest**. Pick the headset in your browser's device list, then put on the headset and select **Allow** on the USB debugging prompt. LoadQuestStuff shows the headset model once it's connected.
+Plug your Quest into the computer and click **Connect Quest**. Pick the headset in your browser's device list, then put on the headset and select **Allow** on the USB debugging prompt. LoadQuestThings shows the headset model once it's connected.
 
 ### 3. Choose what to install
 Under **Choose what to install**, pick one. You can do this before or after connecting.
 - **APK**: drop an `.apk` file on the **Drop an APK here** tile, or click the tile to choose one.
-- **Bundle folder**: for games with OBB files, click **Choose a bundle folder** and select a folder with one APK at its top level and an OBB folder named after the package. LoadQuestStuff checks the layout as soon as you pick it:
+- **Bundle folder**: for games with OBB files, click **Choose a bundle folder** and select a folder with one APK at its top level and an OBB folder named after the package. LoadQuestThings checks the layout as soon as you pick it:
 
   ```text
   bundle/
@@ -52,14 +52,14 @@ Under **Choose what to install**, pick one. You can do this before or after conn
 Click **Install APK** or **Install bundle**. The progress bar and the **Activity** log show each step.
 
 ### 5. Launch the app on your Quest
-After the install finishes, go to **Apps → Unknown Sources** on your headset and launch the app. When you're done, click **Disconnect** in LoadQuestStuff.
+After the install finishes, go to **Apps → Unknown Sources** on your headset and launch the app. When you're done, click **Disconnect** in LoadQuestThings.
 
 ## Future updates
 - Ability to export games from the headset
 
 ## Games sources
 
-LoadQuestStuff can load games lists from sources you add. A source is a URL and a password: LoadQuestStuff
+LoadQuestThings can load games lists from sources you add. A source is a URL and a password: LoadQuestThings
 requests the URL with the password in the `x-api-password` header and expects the games list as
 JSON. None are set up by default.
 
