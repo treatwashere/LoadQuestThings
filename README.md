@@ -4,7 +4,7 @@
 
 **LoadQuestStuff** is a browser‑based sideloader for Meta Quest headsets. It lets you install custom APKs on the Meta Quest directly from your web browser. Developer mode must be enabled on your headset.
 
-This fork was created by treat. LoadQuestStuff was created by [Frizzle](https://github.com/FrizzleM/LoadQuestStuff).
+This fork was created by treat. QuestLoad was created by [Frizzle](https://github.com/FrizzleM/QuestLoad).
 
 <br/>
   <a href="https://LoadQuestStuff.nerdcoder.dev">
@@ -79,5 +79,5 @@ If you are interested in contributing, please see our [CONTRIBUTING.md](CONTRIBU
 
 ## Credits
 
-Copyright © 2026 [Frizzle](https://github.com/FrizzleM/LoadQuestStuff) and treat
+Copyright © 2026 [Frizzle](https://github.com/FrizzleM/LoadQuest) and treat
 
