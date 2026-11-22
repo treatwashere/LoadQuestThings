@@ -43,7 +43,7 @@ export function App() {
         </main>
         <footer className="mx-auto grid max-w-3xl gap-2 px-4 pb-10 text-sm text-muted-foreground sm:px-6">
           <p>
-            Maintained by Toàn. Forked from{' '}
+            Maintained by Toàn and treat. Forked from{' '}
             <a
               href={UPSTREAM_URL}
               target="_blank"
