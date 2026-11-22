@@ -12,7 +12,7 @@ This fork was created by treat. QuestLoad was created by [Frizzle](https://githu
   </a>
   
   <a href="https://github.com/treatwashere/LoadQuestThings/issues">
-    <img alt="Issues" src="https://img.shields.io/github/issues/nerd-coder/LoadQuestThings?style=for-the-badge&color=ef4444">
+    <img alt="Issues" src="https://img.shields.io/github/issues/treatwashere/LoadQuestThings?style=for-the-badge&color=ef4444">
   </a>
 
 </div>
