@@ -4,7 +4,7 @@
 
 **QuestLoad** is a browser‑based sideloader for Meta Quest headsets. It lets you install custom APKs on the Meta Quest directly from your web browser. Developer mode must be enabled on your headset.
 
-This fork is maintained by Toàn. QuestLoad was created by [Frizzle](https://github.com/FrizzleM/QuestLoad).
+This fork was created by treat. QuestLoad was created by [Frizzle](https://github.com/FrizzleM/QuestLoad).
 
 <br/>
   <a href="https://questload.nerdcoder.dev">
@@ -21,7 +21,7 @@ This fork is maintained by Toàn. QuestLoad was created by [Frizzle](https://git
 
 ## Requirements
 
-- Meta Quest headset (2, 3, 3s, Pro)
+- Meta Quest headset (2, 3, 3S, Pro)
 - Developer mode enabled on your headset
 - Browser with WebUSB support (Chrome, Edge, ect.)
 
@@ -79,5 +79,5 @@ If you are interested in contributing, please see our [CONTRIBUTING.md](CONTRIBU
 
 ## Credits
 
-Copyright © 2026 [Frizzle](https://github.com/FrizzleM/QuestLoad) and Toàn
+Copyright © 2026 [Frizzle](https://github.com/FrizzleM/QuestLoad) and treat
 
