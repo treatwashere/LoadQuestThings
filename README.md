@@ -11,7 +11,7 @@ This fork was created by treat. QuestLoad was created by [Frizzle](https://githu
     <img alt="Launch LoadQuestStuff" src="https://img.shields.io/badge/Launch-Open%20App-6cb6ff?style=for-the-badge">
   </a>
   
-  <a href="https://github.com/nerd-coder/LoadQuestStuff/issues">
+  <a href="https://github.com/treatwashere/LoadQuestStuff/issues">
     <img alt="Issues" src="https://img.shields.io/github/issues/nerd-coder/LoadQuestStuff?style=for-the-badge&color=ef4444">
   </a>
 
