@@ -29,7 +29,7 @@ export function App() {
           <TabsContent value="installer">
             <PageIntro
               title="Install apps on your Quest"
-              lede="Plug your headset into this computer, choose an APK, and QuestLoad installs it over USB. Your Quest needs developer mode turned on."
+              lede="Plug your headset into this computer, choose an APK, and LoadQuestThings installs it over USB. Your Quest needs developer mode turned on."
             />
             <InstallerView />
           </TabsContent>
