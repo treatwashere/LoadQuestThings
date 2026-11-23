@@ -26,7 +26,7 @@ export function TopBar() {
         <span className="flex items-center gap-2.5">
           <LogoMark />
           <span className="text-lg font-bold tracking-[-0.02em] max-sm:sr-only">
-            QuestLoad
+            LoadQuestThings
           </span>
         </span>
         <TabsList aria-label="Views">
@@ -38,12 +38,12 @@ export function TopBar() {
           </TabsTrigger>
         </TabsList>
         <div className="flex items-center gap-1">
-          <IconTip label="QuestLoad source on GitHub" className="max-sm:hidden">
+          <IconTip label="LoadQuestThings source on GitHub" className="max-sm:hidden">
             <a
               href={SOURCE_URL}
               target="_blank"
               rel="noreferrer"
-              aria-label="QuestLoad source on GitHub"
+              aria-label="LoadQuestThings source on GitHub"
               className={buttonVariants({ variant: 'ghost', size: 'icon-sm' })}
             >
               <GitHubMark className="size-5" />
