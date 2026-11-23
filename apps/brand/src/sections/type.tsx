@@ -25,7 +25,7 @@ const scale = [
     spec: '16/24 Regular',
     className: 'max-w-prose text-base',
     sample:
-      'Put on your headset and select Allow when the USB debugging prompt appears. QuestLoad waits until you do.',
+      'Put on your headset and select Allow when the USB debugging prompt appears. LoadQuestThings waits until you do.',
   },
   {
     role: 'Supporting',
