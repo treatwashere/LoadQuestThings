@@ -1,6 +1,6 @@
 {
-  "name": "QuestLoad",
-  "short_name": "QuestLoad",
+  "name": "LoadQuestThings",
+  "short_name": "LoadQuestThings",
   "description": "Install apps on your Meta Quest, straight from the browser.",
   "start_url": "/",
   "display": "standalone",
