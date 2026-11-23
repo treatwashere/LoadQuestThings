@@ -21,7 +21,7 @@ export function GamesSourceDialog() {
         <DialogHeader>
           <DialogTitle>Games sources</DialogTitle>
           <DialogDescription>
-            QuestLoad loads games lists from the sources you add. A source
+            LoadQuestThings loads games lists from the sources you add. A source
             that's off stays saved but isn't loaded.
           </DialogDescription>
         </DialogHeader>
