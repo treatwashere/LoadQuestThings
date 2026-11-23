@@ -7,7 +7,7 @@
 This fork was created by treat. QuestLoad was created by [Frizzle](https://github.com/FrizzleM/QuestLoad).
 
 <br/>
-  <a href="https://LoadQuestThings.nerdcoder.dev">
+  <a href="https://questload.vercel.app">
     <img alt="Launch LoadQuestThings" src="https://img.shields.io/badge/Launch-Open%20App-6cb6ff?style=for-the-badge">
   </a>
   
@@ -30,7 +30,7 @@ This fork was created by treat. QuestLoad was created by [Frizzle](https://githu
 Follow these steps to sideload an app:
 
 ### 1. Launch LoadQuestThings
-Open [LoadQuestThings.nerdcoder.dev](https://LoadQuestThings.nerdcoder.dev).
+Open [LoadQuestThings](https://questload.vercel.app)).
 
 ### 2. Connect your Quest
 Plug your Quest into the computer and click **Connect Quest**. Pick the headset in your browser's device list, then put on the headset and select **Allow** on the USB debugging prompt. LoadQuestThings shows the headset model once it's connected.
@@ -79,5 +79,5 @@ If you are interested in contributing, please see our [CONTRIBUTING.md](CONTRIBU
 
 ## Credits
 
-Copyright © 2026 [Frizzle](https://github.com/FrizzleM/LoadQuest) and treat
+Copyright © 2026 [Frizzle](https://github.com/FrizzleM/LoadQuest), Toàn and treat
 
