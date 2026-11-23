@@ -30,7 +30,7 @@ This fork was created by treat. QuestLoad was created by [Frizzle](https://githu
 Follow these steps to sideload an app:
 
 ### 1. Launch LoadQuestThings
-Open [LoadQuestThings](https://questload.vercel.app)).
+Open [LoadQuestThings](https://questload.vercel.app).
 
 ### 2. Connect your Quest
 Plug your Quest into the computer and click **Connect Quest**. Pick the headset in your browser's device list, then put on the headset and select **Allow** on the USB debugging prompt. LoadQuestThings shows the headset model once it's connected.
