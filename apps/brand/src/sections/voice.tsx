@@ -13,7 +13,7 @@ const pairs = [
     'Give the next physical step.',
   ],
   [
-    'Open QuestLoad in Chrome or Edge to connect your Quest',
+    'Open LoadQuestThings in Chrome or Edge to connect your Quest',
     'Error: navigator.usb is undefined',
     'Errors say what to do, never apologize.',
   ],
@@ -34,7 +34,7 @@ export function VoiceSection() {
     <Section
       id="voice"
       title="Voice"
-      lede="Calm, specific, sentence case. QuestLoad talks like the headset does: short instructions with no emoji and no exclamation marks."
+      lede="Calm, specific, sentence case. LoadQuestThings talks like the headset does: short instructions with no emoji and no exclamation marks."
     >
       <Panel>
         <div className="hidden gap-6 pb-3 text-sm text-muted-foreground md:grid md:grid-cols-[1fr_1fr_1fr]">
